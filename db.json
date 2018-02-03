@@ -7,18 +7,13 @@
     },
     {
       "title": "Clean inbox",
-      "complete": true,
+      "complete": false,
       "id": 2
     },
     {
       "id": 3,
       "title": "Make restaurant reservation",
       "complete": false
-    },
-    {
-      "title": "dafsd",
-      "complete": false,
-      "id": 4
     }
   ]
 }
